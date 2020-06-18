@@ -33,7 +33,7 @@
 | --------   | ------  | ------ | ----  |
 | 主板尺寸       | 37\*97\*9MM    | 图像传感器配置 | 标配8M （可选 2M）    |
 | 摄像分辨率     | UHD（3840\*2160P）FHD（1920 \*1080P）30FPS           | 视频压缩格式   | H.264/MP4      
-| 镜头模组规格   | 标配 70度小镜头(可    选大、小广角)      | 码流           | 4K ： 40Mbps 720P：2Mbps   码流可按客户要求调整
+| 镜头模组规格   | 标配 70度小镜头(可    选大、小广角)      | 码流           | 4K ： 40Mbps   720P：2Mbps   码流可按客户要求调整
 | Wifi模块       | 配备2.4G       | 传输距离       | 100米（空      |
 |                | Wifi图传模块   |                | 旷无干扰环境） |
 | 待机功耗       | 1.5W-2.0W      | 工作功耗       | 2.0-6.0W       |
@@ -63,11 +63,11 @@
     3、给电源上电即可开始录制，打开APP：
 
     安卓：下载哈友图传 v1.7.apk
-    链接：[http://hayoou.com/y3bt](http://box.hayoou.com/1592315390069/%E5%93%88%E5%8F%8B%E5%9B%BE%E4%BC%A0 v1.7.apk)
+    链接：[http://hayoou.com/y3bt]
 
     iOS: APP store 搜索 VLC player
 
-    <https://apps.apple.com/cn/app/vlc-for-mobile/id650377962>
+    [https://apps.apple.com/cn/app/vlc-for-mobile/id650377962]
 
     打开媒体流： rtsp://192.168.0.1:554/12
 
