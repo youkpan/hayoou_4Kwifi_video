@@ -58,7 +58,7 @@
 
     安卓：
     
-    哈友图传 SmartPlayer 版本（推荐） v2.1 链接：[http://hayoou.com/y3cl]
+    哈友图传 SmartPlayer 版本（推荐） v2.1 链接：[http://hayoou.com/y3cm]
 
     哈友图传 v2.1 VR 模式 链接：[http://hayoou.com/y3ck]
 
