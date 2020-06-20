@@ -56,12 +56,21 @@
 
     3、给电源上电即可开始录制，打开APP：
 
-    安卓：下载哈友图传 v1.91 VR 模式
-    链接：[http://hayoou.com/y3cj]
+    安卓：
+    
+    哈友图传 SmartPlayer 版本（推荐） v2.1 链接：[http://hayoou.com/y3cl]
 
-    iOS: APP store 搜索 VLC player,无VR模式
+    哈友图传 v2.1 VR 模式 链接：[http://hayoou.com/y3ck]
+
+    iOS: 
+    
+    APP store 搜索 Easyplayer [https://apps.apple.com/cn/app/easyplayerrtsp/id1158675416]
+    
+    或者搜索 VLC player,无VR模式
 
     [https://apps.apple.com/cn/app/vlc-for-mobile/id650377962]
+
+    
 
     打开媒体流： rtsp://192.168.0.1:554/12
 
