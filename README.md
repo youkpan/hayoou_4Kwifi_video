@@ -57,9 +57,9 @@
     3、给电源上电即可开始录制，打开APP：
 
     安卓：下载哈友图传 v1.91 VR 模式
-    链接：[http://hayoou.com/y3ch]
+    链接：[http://hayoou.com/y3cj]
 
-    iOS: APP store 搜索 VLC player
+    iOS: APP store 搜索 VLC player,无VR模式
 
     [https://apps.apple.com/cn/app/vlc-for-mobile/id650377962]
 
