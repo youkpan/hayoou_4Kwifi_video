@@ -85,3 +85,6 @@
 
 
 客服微信  hayoou2
+批量价格在 350 左右。
+相关文档更新： [http://hayoou.com/4kvr]
+
